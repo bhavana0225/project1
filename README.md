@@ -1,14 +1,12 @@
 # project1
 demo project related
-bhavana sai M
-bhavanasai.m9999@gmail.com
-IT
+# bhavana sai
+## y19it005
+### bhavanasai.m9999@gmail.com
+#### xxxxxxxxx
+##### information technology
+###### guntur
 
 
 
-# RVR&JC_IT
-## RVR&JC_IT
-### RVR&JC_IT
-#### RVR&JC_IT
-##### RVR&JC_IT
-###### RVR&JC_IT
+
